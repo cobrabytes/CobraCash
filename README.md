@@ -18,12 +18,12 @@ CobraCash core dev team have gained trust and respect for honest team and will c
 
 CobraCash Specs
 
-
+-> uses C & B for CoBraCash addresses 
 ->Proof of Stake with Proof of Work period on release
 
 
 ->PoW Target Blocktime 5 mins
-
+-> sha256d
 
 RPC Port 44922
 
